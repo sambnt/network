@@ -63,7 +63,6 @@ extra-source-files:
     config.sub
     install-sh
     configure.ac
-    configure
     include/HsNetworkConfig.h.in
     include/HsNet.h
     include/HsNetDef.h
