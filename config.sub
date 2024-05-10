@@ -1281,7 +1281,7 @@ case $cpu-$vendor in
 				;;
 
 			*)
-				echo Invalid configuration \`"$1"\': machine \`"$cpu-$vendor"\' not recognized 1>&2
+				echo Invalid configuration \`"$1"\': machine \`"$cpu-$vendor"\' foobarnot recognized 1>&2
 				exit 1
 				;;
 		esac
