@@ -12,7 +12,6 @@ config.status
 dist/*
 dist-newstyle/*
 include/HsNetworkConfig.h
-include/HsNetworkConfig.h.in
 network.buildinfo
 cabal.sandbox.config
 .cabal-sandbox
